@@ -1,3 +1,16 @@
-Flutter project.
+# todoList
 
-![todo_list](https://user-images.githubusercontent.com/65718268/218250970-cfd2e2f9-fd20-4dc4-8a86-7e23307e0d45.png)
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
